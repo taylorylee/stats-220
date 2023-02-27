@@ -18,6 +18,7 @@ Projects for *STATS 220*
 
 <!-- add a link here and an unordered bullet points -->
 
+- ![GitHub and RStudio](https://resources.github.com/github-and-rstudio/)
 - ![]()
 
 <!-- 
