@@ -1,0 +1,23 @@
+# Project 1
+
+<!-https://www.stat.auckland.ac.nz/~fergusson/stats220_S123/project1.php-->
+
+## Project requirements
+
+Briefly summarise how you have met the requirements related to working with GitHub and GitHub pages. Include the links to your repo and to your website (these are different links).
+
+Include a screenshot of the project folder you have created on your computer. It should be obvious in the screenshot that you have set up and used .Rproject within RStudio, and all files and images used for this project should be visible.
+
+Describe and justify how your project demonstrates creativity.
+
+<!-- 
+For this assignment, that could mean using additional functions from the {magick} package that were not covered in the lectures/labs, using more CSS than what was required to change the appearance of your HTML, adding more content to your GitHub website (e.g. creating another webpage using Rmd that is linked to from your index page), or incorporating additional context when creating the meme or animated GIF.
+-->
+
+## Learning reflection 
+
+Describe in your own words at least ONE important idea you learned from Module 1 Creating HTML by combining modern technologies.
+
+Discuss what things related to data technologies that you are more curious about exploring further.
+
+Write at least 100 words for this section
